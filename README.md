@@ -33,8 +33,6 @@ Prompting techniques I used:
 ## 4. My AI Career Coach in Action
 
 ### Example 1: Career Guidance
-**My prompt:**
-> I already passed the screening interview, and now I have an in person interview. Act as a Kimley-Horn Civil Engineering hiring manager. Using only the job description and Kimley-Horn sources, identify the top 5 skills this role requires. For each one, tell me which of my experiences is the strongest match and where I have a gap. Format your answer as a table.
 
 **What the AI helped me understand:**
 The coach identified five priorities for the role: civil/technical software, pre-construction design and analysis, multidisciplinary collaboration, regulatory and code compliance, and quality control. It matched each to my experience, such as my Engineers Without Borders drainage and irrigation project and my ADA-compliant design work. It also named honest gaps, like no direct Civil 3D experience and no exposure to formal plan redlines, and suggested I present my 3D modeling background as proof that I learn software quickly.
@@ -42,18 +40,12 @@ The coach identified five priorities for the role: civil/technical software, pre
 ![Career guidance example](screenshots/2026-11-05 162935.png)
 
 ### Example 2: Mock Interview
-**My prompt:**
-> Run a mock interview for this Kimley-Horn role. Follow this pattern: ask ONE question, wait for my answer, then give feedback using STAR (Situation, Task, Action, Result) and tie it to a Kimley-Horn core value. Example: Q: "Tell me about a time you worked on a team." → [wait] → Feedback: "Strong Action, but the Result needs a number, such as days saved or sheets revised. This connects to 'sharing and caring.'" Start with "Why Kimley-Horn?"
-
 **What I learned:**
 My first answer ("people-first culture and entrepreneurial model") was accurate but generic. Any candidate could say it. The feedback showed me I needed a personal action (what I did to learn about the firm or the local projects) and a clear result (what value I would bring to the team). I now answer "Why Kimley-Horn?" with a specific reason connected to my own experience.
 
 ![Mock interview example](screenshots/2026-11-05 163040.png)
 
 ### Example 3: Career Action Plan
-**My prompt:**
-> Think step by step. Based on the job description, build a 30/60/90-day plan for a new Kimley-Horn analyst. For each phase, list the goals, the software and skills to learn, and how I would show progress to my manager. Use bullet points.
-
 **My next steps:**
 The plan showed me that the first month of an internship is about learning the firm's standards: AutoCAD/Civil 3D conventions, QC and redline procedures, and local public works standards. Its most practical advice was to aim for "zero repeat redlines" and to hold a short weekly check-in with my mentor. I'm starting a Civil 3D tutorial now so I arrive with a head start.
 
