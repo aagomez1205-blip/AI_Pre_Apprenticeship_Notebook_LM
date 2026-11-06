@@ -39,7 +39,7 @@ Prompting techniques I used:
 **What the AI helped me understand:**
 The coach identified five priorities for the role: civil/technical software, pre-construction design and analysis, multidisciplinary collaboration, regulatory and code compliance, and quality control. It matched each to my experience, such as my Engineers Without Borders drainage and irrigation project and my ADA-compliant design work. It also named honest gaps, like no direct Civil 3D experience and no exposure to formal plan redlines, and suggested I present my 3D modeling background as proof that I learn software quickly.
 
-![Career guidance example](screenshots/ )
+![Career guidance example](screenshots/2026-11-05 162935.png)
 
 ### Example 2: Mock Interview
 **My prompt:**
@@ -48,7 +48,7 @@ The coach identified five priorities for the role: civil/technical software, pre
 **What I learned:**
 My first answer ("people-first culture and entrepreneurial model") was accurate but generic. Any candidate could say it. The feedback showed me I needed a personal action (what I did to learn about the firm or the local projects) and a clear result (what value I would bring to the team). I now answer "Why Kimley-Horn?" with a specific reason connected to my own experience.
 
-![Mock interview example](screenshots/ )
+![Mock interview example](screenshots/2026-11-05 163040.png)
 
 ### Example 3: Career Action Plan
 **My prompt:**
@@ -57,7 +57,7 @@ My first answer ("people-first culture and entrepreneurial model") was accurate 
 **My next steps:**
 The plan showed me that the first month of an internship is about learning the firm's standards: AutoCAD/Civil 3D conventions, QC and redline procedures, and local public works standards. Its most practical advice was to aim for "zero repeat redlines" and to hold a short weekly check-in with my mentor. I'm starting a Civil 3D tutorial now so I arrive with a head start.
 
-![Career plan example](screenshots/ )
+![Career plan example](screenshots/2026-11-05 163134.png)
 
 ## 5. Testing and Improving My Assistant
 **Original prompt:**
